@@ -2,4 +2,4 @@
 
 **DO NOT ABUSE FOR THIS FILE**
 
-Pass : Chara
+Pass : CharaWare
